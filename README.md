@@ -1,2 +1,2 @@
 # uber-clone
-it is a clone website of uber using MERN Stack
+clone website of uber using MERN Stack
